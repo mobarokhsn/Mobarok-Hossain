@@ -49,7 +49,11 @@ Beyond client work, I manage a commercial library of **5,000+ premium motion ass
 
 ## 🧩 Nextools
 
-I also run **Nextools**, a company building **automation extensions for Chrome & Edge**: small, focused tools that cut repetitive work out of everyday browser workflows.
+I also run **[Nextools](https://nextools.mobarokhsn.com/)**, a company building **automation extensions for Chrome & Edge**: small, focused tools that cut repetitive work out of everyday browser workflows.
+
+<p>
+  <a href="https://nextools.mobarokhsn.com/"><img src="https://img.shields.io/badge/Visit-nextools.mobarokhsn.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Nextools" /></a>
+</p>
 
 ---
 
@@ -148,6 +152,7 @@ Technical education focused on computer studies, problem-solving, and IT fundame
 
 <p align="center">
   <a href="https://mobarokhsn.com"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://nextools.mobarokhsn.com/"><img src="https://img.shields.io/badge/Nextools-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Nextools" /></a>
   <a href="mailto:hi@mobarokhsn.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/mobarokhsn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://instagram.com/mobarok_hsn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
