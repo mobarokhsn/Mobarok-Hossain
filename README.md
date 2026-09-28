@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://mobarokhsn.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Professional+Video+Editor+%26+Motion+Designer;Short-Form+%E2%80%A2+YouTube+%E2%80%A2+SaaS+Animation;5%2C000%2B+Premium+Motion+Assets+Published;Founder+of+Nextools+%E2%80%94+Automation+Extensions" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Professional+Video+Editor+%26+Motion+Designer;Short-Form+%E2%80%A2+YouTube+%E2%80%A2+SaaS+Animation;5%2C000%2B+Premium+Motion+Assets+Published;Founder+of+Nextools+%E2%80%94+Extensions+%26+Adobe+Plugins" alt="Typing intro" />
   </a>
 </p>
 
@@ -49,10 +49,48 @@ Beyond client work, I manage a commercial library of **5,000+ premium motion ass
 
 ## 🧩 Nextools
 
-I also run **[Nextools](https://nextools.mobarokhsn.com/)**, a company building **automation extensions for Chrome & Edge**: small, focused tools that cut repetitive work out of everyday browser workflows.
+<p align="center">
+  <a href="https://nextools.mobarokhsn.com/"><b>Nextools</b></a>: <i>Work at the speed of your ideas.</i>
+</p>
 
-<p>
-  <a href="https://nextools.mobarokhsn.com/"><img src="https://img.shields.io/badge/Visit-nextools.mobarokhsn.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Nextools" /></a>
+I founded and run **[Nextools](https://nextools.mobarokhsn.com/)**, a studio building **precision browser extensions, Adobe plugins and software** that remove repetitive work, protect focus, and help professionals deliver faster. One account, instant activation, secure licensing and continuous updates.
+
+<table align="center">
+  <tr>
+    <td align="center"><h3>99</h3><sub>Tools in the library</sub></td>
+    <td align="center"><h3>Chrome · Edge · Firefox</h3><sub>Browser extensions</sub></td>
+    <td align="center"><h3>Ae · Pr</h3><sub>Plugins & scripts</sub></td>
+    <td align="center"><h3>Windows · Android</h3><sub>Software</sub></td>
+  </tr>
+</table>
+
+### 🌐 Browser Extensions
+
+| Extension | What it does | Browser | Get it |
+|---|---|:-:|:-:|
+| **[Chat Translator Unlimited](https://nextools.mobarokhsn.com/product/chat-translator-unlimited)** | Translate unlimited chat messages on every site, in 133+ languages | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/chat-translator-unlimited"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[AD Block Master](https://nextools.mobarokhsn.com/product/ad-block-master)** | Block ads, trackers, pop-ups and distractions: fast, private and 100% free | Chrome · Edge | <a href="https://chromewebstore.google.com/detail/ad-blocker-extension-bloc/cbocflggnpkmejbhllcibfkbbjpppcgf"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> |
+| **[Color Picker & Palettes Generator](https://nextools.mobarokhsn.com/product/color-picker-palettes-generator)** | Capture colors from any page, explore 10,000 offline palettes and export design tokens | Chrome · Edge | <a href="https://chromewebstore.google.com/detail/color-picker-extension-pa/gdnfmbbjlgpbbihippnnmniddabiaifh"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> |
+| **[Font Finder](https://nextools.mobarokhsn.com/product/font-finder)** | Inspect any font on a page and copy production-ready CSS | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/font-finder"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[Image Download Master](https://nextools.mobarokhsn.com/product/image-download-master)** | Scan, filter and download images from any page, individually or as a ZIP | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/image-download-master"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[LinkFlow](https://nextools.mobarokhsn.com/product/linkflow)** | Extract links, open many URLs safely and organize up to 10,000 links with CSV export | Chrome · Edge | <a href="https://chromewebstore.google.com/detail/url-opener-extension-open/glpjjhohnebadchndlckedodambmloji"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> |
+| **[Website Scraper](https://nextools.mobarokhsn.com/product/website-scraper)** | Collect public emails, phones and social profiles from one page or a bulk URL list | Chrome · Edge | <a href="https://chromewebstore.google.com/detail/email-extractor-website-s/hjanfgjeklfmiclogdjfcgibgjpiofei"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> |
+| **[Google Maps Scraper](https://nextools.mobarokhsn.com/product/google-maps-scraper)** | Turn public Google Maps business info into exportable B2B lead lists | Edge | <a href="https://nextools.mobarokhsn.com/product/google-maps-scraper"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[Website Technology Detector](https://nextools.mobarokhsn.com/product/website-technology-detector)** | Detect a site's tech stack plus security, SEO, performance and accessibility signals | Chrome · Edge | <a href="https://chromewebstore.google.com/detail/website-technology-detect/fdcjeecfnhocklfcmcpngoihjajjcjmp"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store" /></a> |
+| **[Broken Link Checker](https://nextools.mobarokhsn.com/product/broken-link-checker)** | Find broken URLs and redirects on any page, with CSV reports | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/broken-link-checker"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[Tab Auto Refresh](https://nextools.mobarokhsn.com/product/tab-auto-refresh)** | Refresh any tab on a schedule with presets and visual countdowns | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/tab-auto-refresh"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+| **[Allow Copy +](https://nextools.mobarokhsn.com/product/allow-copy-plus)** | Restore text selection, copy and right-click on sites that block them | Chrome · Edge | <a href="https://nextools.mobarokhsn.com/product/allow-copy-plus"><img src="https://img.shields.io/badge/View-0EA5E9?style=flat-square" alt="View" /></a> |
+
+### 🎬 Adobe Plugins & Software
+
+| Product | What it does | Platform |
+|---|---|:-:|
+| **[NEXUS](https://nextools.mobarokhsn.com/product/nexus)** | All-in-one motion design and workflow extension | After Effects |
+| **[Media Composer](https://nextools.mobarokhsn.com/product/media-composer)** | Animation Composer-style media browser | Premiere Pro |
+| **[NexTools ZXP Installer](https://nextools.mobarokhsn.com/product/nextools-zxp-installer)** | Hassle-free installer for NexTools Adobe plugins | Windows |
+
+<p align="center">
+  <a href="https://nextools.mobarokhsn.com/"><img src="https://img.shields.io/badge/Explore_all_99_tools-nextools.mobarokhsn.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore all tools" /></a>
 </p>
 
 ---
